@@ -4,7 +4,6 @@
 ## [Project Overview](#project-overview)
 ## [Data Sources](#data-sources)
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Data Analysis](#data-analysis)
 ## [Results/Insights](#Results/Insights)
 
@@ -19,22 +18,15 @@ A Data Analysis project;
 ### Data Sources
 ---
 The data used for this project was downloaded from Kaggle.
-https://www.kaggle.com/datasets/brsahan/e-commerce-dataset/data
+- https://www.kaggle.com/datasets/brsahan/e-commerce-dataset/data
 
 ### Data Cleaning and Preparation
 ---
-I expanded columns and checked for duplicates.
-I removed blank rows.
+-I expanded columns and checked for duplicates.
+-I removed blank rows.
 I added two extra columns;
-- Payment Method
-- Customer Segment
-
-### Exploratory Data Analysis
----
-EDA Checklist:
-1. Summary Statistics: Understand basic metrics (sum, count).
-2. Visualizations: Use charts (bar charts, pie charts, line graphs to visually explore data.
-3. Categorical Data: Summarize and visualize categorical variables.
+1. Payment Method
+2. Customer Segment
 
 ### Data Analysis
 ---
