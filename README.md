@@ -22,9 +22,10 @@ The data used for this project was downloaded from Kaggle.
 
 ### Data Cleaning and Preparation
 ---
--I expanded columns and checked for duplicates.
--I removed blank rows.
-I added two extra columns;
+- Column Expansion.
+- Duplicate check.
+- Removal of blank rows.
+- Addition of extra columns;
 1. Payment Method
 2. Customer Segment
 
