@@ -25,9 +25,10 @@ The data used for this project was downloaded from Kaggle.
 - Column Expansion.
 - Duplicate check.
 - Removal of blank rows.
+- Data Validation
 - Addition of extra columns;
-1. Payment Method
-2. Customer Segment
+  1. Payment Method
+  2. Customer Segment
 
 ### Data Analysis
 ---
